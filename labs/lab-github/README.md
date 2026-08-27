@@ -304,7 +304,7 @@ c) Para que el historial de commits sea más corto y lineal
 d) Porque la plataforma lo requiere para poder crear el pull request
 
 ```
-RESPUESTA_P1=
+RESPUESTA_P1=b
 ```
 
 ---
